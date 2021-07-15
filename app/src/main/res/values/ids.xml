@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        ===Naming convention===
+
+        1. resource: activity(act) / fragment(fg) / drawable(draw)
+        2. screen: main / completed / label / todo
+        3. type: textview / card
+        4. specifier: ...can be anything, eg title, description, etc
+
+        example: act_main_textview_title
+        example: fg_todo_completed_card_description
+        example: fg_todo_uncompleted_recyclerview_todos
+    -->
+
+    <!-- Drawable -->
+    <item name="draw_btn_rounded_dark" type="id" />
+    <item name="draw_btn_rounded_light" type="id" />
+
+
+    <!-- Activity -->
+    <item name="act_splash_button_start" type="id" />
+
+    <item name="act_login_input_email" type="id" />
+    <item name="act_login_input_password" type="id" />
+    <item name="act_login_button_login" type="id" />
+    <item name="act_login_button_to_register" type="id" />
+    <item name="act_login_linearlayout_form_container" type="id" />
+
+    <item name="act_register_button_register" type="id" />
+    <item name="act_register_button_to_login" type="id" />
+    <item name="act_register_linearlayout_form_container" type="id" />
+
+    <item name="act_main_navigation_host" type="id" />
+    <item name="act_main_appbar_navigation" type="id" />
+    <item name="act_main_bottom_navigation_view" type="id" />
+
+    <!-- Fragment -->
+    <item name="fg_todo" type="id" />
+    <item name="fg_todo_layout" type="id" />
+    <item name="fg_todo_tab_layout" type="id" />
+    <item name="fg_todo_viewpager" type="id" />
+    <item name="fg_todo_card" type="id" />
+    <item name="fg_todo_card_check" type="id" />
+    <item name="fg_todo_card_title" type="id" />
+    <item name="fg_todo_card_date" type="id" />
+    <item name="fg_todo_card_label" type="id" />
+    <item name="fg_todo_recyclerview_uncompleted" type="id" />
+    <item name="fg_todo_recyclerview_completed" type="id" />
+    <item name="fg_todo_popup_info_title_header" type="id" />
+    <item name="fg_todo_popup_info_title_value" type="id" />
+    <item name="fg_todo_popup_info_context_header" type="id" />
+    <item name="fg_todo_popup_info_context_value" type="id" />
+    <item name="fg_todo_popup_info_due_date_header" type="id" />
+    <item name="fg_todo_popup_info_due_date_value" type="id" />
+    <item name="fg_todo_popup_info_label_header" type="id" />
+    <item name="fg_todo_popup_info_label_value" type="id" />
+    <item name="fg_todo_popup_info_done_date_header" type="id" />
+    <item name="fg_todo_popup_info_done_date_value" type="id" />
+
+    <item name="fg_label" type="id" />
+    <item name="fg_label_layout" type="id" />
+    <item name="fg_label_recyclerview" type="id" />
+    <item name="fg_label_card" type="id" />
+    <item name="fg_label_card_title" type="id" />
+
+</resources>

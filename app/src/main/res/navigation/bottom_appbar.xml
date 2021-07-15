@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/fg_todo">
+
+    <fragment
+        android:id="@+id/fg_todo"
+        android:name="com.pkg.to_day.ui.todo.TodoFragment"
+        android:label="@string/navigation_todos"
+        tools:layout="@layout/fragment_todo" />
+
+    <fragment
+        android:id="@+id/fg_label"
+        android:name="com.pkg.to_day.ui.label.LabelFragment"
+        android:label="@string/navigation_label"
+        tools:layout="@layout/fragment_label" />
+
+</navigation>

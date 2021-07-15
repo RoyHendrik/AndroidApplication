@@ -1,0 +1,48 @@
+<resources>
+    <!--  Common  -->
+    <string name="app_name">To-day</string>
+    <string name="brand_quote">Everything you need to do, today.</string>
+    <string name="button_send">Send</string>
+    <string name="button_save_changes">Save changes</string>
+    <string name="placeholder_email">Email</string>
+    <string name="placeholder_password">Password</string>
+    <string name="placeholder_password_repeat">Repeat password</string>
+
+    <!--  Navigation  -->
+    <string name="navigation_label">Labels</string>
+    <string name="navigation_todos">Todos</string>
+
+    <!-- Tabs -->
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!--  Specific screens  -->
+    <string name="splash_button">Start today!</string>
+    <string name="login_button">Login</string>
+    <string name="login_back_to_register">Or register</string>
+    <string name="register_button">Register</string>
+    <string name="register_back_to_login">Or login</string>
+
+    <!-- inputs/ titles -->
+    <string name="todo_quote">Change it up a bit</string>
+    <string name="info_todo_popup_title">Information about todo</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_due_date">Due date</string>
+    <string name="placeholder_context">Context</string>
+    <string name="placeholder_label">Label</string>
+    <string name="placeholder_done_date">Done date</string>
+    <string name="empty_label">No label</string>
+    <string name="empty_done_date">Not yet finished</string>
+    <string name="btn_save">Save changes</string>
+    <string name="create_label_quote">What do you want to categorize?</string>
+    <string name="btn_create">Create</string>
+    <string name="btn_add">Add</string>
+    <string name="todo_img">Label</string>
+    <string name="label_create">Create a label</string>
+    <string name="label_name">Enter your label name</string>
+    <string name="create_todo_quote">What\'s on your mind?</string>
+    <string name="edit_label">Edit a label</string>
+    <string name="todo_header_edit">Edit ToDo Task</string>
+    <string name="edit_task">Edit a task</string>
+    <string name="create_todo_task">Create a new task</string>
+</resources>

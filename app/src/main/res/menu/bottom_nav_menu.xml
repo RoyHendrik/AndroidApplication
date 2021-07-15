@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fg_todo"
+        android:icon="@drawable/ic_baseline_check_circle_24"
+        android:title="@string/navigation_todos"/>
+
+    <item
+        android:id="@+id/fg_label"
+        android:icon="@drawable/ic_baseline_label_24"
+        android:title="@string/navigation_label" />
+</menu>

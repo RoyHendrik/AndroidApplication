@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Brand  -->
+    <color name="primary">#2B44FF</color>
+    <color name="primaryDark">#0F26D0</color>
+    <color name="secondary">#292F36</color>
+
+    <!--  Status  -->
+    <color name="statusDelete">#B45252</color>
+    <color name="statusEdit">#2B44FF</color>
+
+    <!--  Texts  -->
+    <color name="textLight">#F4F8FF</color>
+    <color name="textDark">#292F36</color>
+
+    <!--  Backgrounds  -->
+    <color name="backgroundLight">#ECF3FF</color>
+    <color name="backgroundLighter">#CADEFF</color>
+    <color name="backgroundLightest">#FFFFFF</color>
+
+    <!--  Default  -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
